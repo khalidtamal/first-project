@@ -1,2 +1,5 @@
-# first-project
-git push -u origin main
+import math
+a=int(input("Plz enter your number :"))
+b=math.sqrt(a)
+
+print("Your Number Square Result :",b)
